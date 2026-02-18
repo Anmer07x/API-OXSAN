@@ -1,0 +1,26 @@
+[
+  {
+    "numero_documento": "12345678",
+    "codigo_orden": "ORD-2024-001",
+    "examen": "HEMOGRAMA COMPLETO",
+    "resultado": {
+      "leucocitos": "6.5",
+      "eritrocitos": "4.8",
+      "hemoglobina": "14.2"
+    },
+    "unidad": null,
+    "valores_referencia": "Leucocitos: 4.5-11.0, Eritrocitos: 4.0-5.5",
+    "fecha_examen": "2024-01-15 08:30:00",
+    "fecha_validacion": "2024-01-15 14:00:00"
+  },
+  {
+    "numero_documento": "87654321",
+    "codigo_orden": "ORD-2024-002",
+    "examen": "GLUCOSA",
+    "resultado": "95",
+    "unidad": "mg/dL",
+    "valores_referencia": "70-100 mg/dL",
+    "fecha_examen": "2024-01-16 09:00:00",
+    "fecha_validacion": null
+  }
+]
